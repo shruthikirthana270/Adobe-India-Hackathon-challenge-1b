@@ -1,0 +1,19 @@
+# Core PDF processing libraries
+PyPDF2==3.0.1
+pdfplumber==0.10.3
+
+# Machine learning and text processing
+scikit-learn==1.3.2
+numpy==1.24.3
+scipy==1.11.4
+
+# Text processing and NLP
+nltk==3.8.1
+textblob==0.17.1
+
+# Data handling
+pandas==2.1.4
+
+# Additional utilities
+tqdm==4.66.1
+python-dateutil==2.8.2

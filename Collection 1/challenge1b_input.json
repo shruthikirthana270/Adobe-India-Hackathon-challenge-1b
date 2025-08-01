@@ -1,0 +1,21 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_002",
+    "test_case_name": "travel_planning_south_france"
+  },
+  "documents": [
+    { "filename": "south_france_guide_1.pdf", "title": "Complete Guide to South of France" },
+    { "filename": "south_france_guide_2.pdf", "title": "Budget Travel in Provence" },
+    { "filename": "south_france_guide_3.pdf", "title": "Student Group Travel Tips" },
+    { "filename": "south_france_guide_4.pdf", "title": "French Riviera Attractions" },
+    { "filename": "south_france_guide_5.pdf", "title": "Accommodation Guide for Groups" },
+    { "filename": "south_france_guide_6.pdf", "title": "Transportation in Southern France" },
+    { "filename": "south_france_guide_7.pdf", "title": "4-Day Itinerary Planning" }
+  ],
+  "persona": {
+    "role": "Travel Planner"
+  },
+  "job_to_be_done": {
+    "task": "Plan a 4-day trip for 10 college friends to South of France"
+  }
+}

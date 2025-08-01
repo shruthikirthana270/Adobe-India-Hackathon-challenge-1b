@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "challenge_id": "round_1b_002",
+    "test_case_name": "travel_planning_south_france",
+    "input_documents": [
+      "travel_guide.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a 4-day trip for 10 college friends to South of France",
+    "processing_timestamp": "2025-07-28 20:44:24",
+    "total_sections_analyzed": 2,
+    "total_documents_processed": 1
+  },
+  "extracted_sections": [
+    {
+      "document": "travel_guide.pdf",
+      "section_title": "- Departure preparations",
+      "importance_rank": 1,
+      "page_number": 2,
+      "relevance_score": 0.126,
+      "content_preview": "Group Activities and Entertainment\nBeach Activities: The Mediterranean offers perfect conditions for swimming, beach\nvolleyball, and water sports. Many beaches have equipment rental for groups.\nCultur..."
+    },
+    {
+      "document": "travel_guide.pdf",
+      "section_title": "Transportation Guide",
+      "importance_rank": 2,
+      "page_number": 2,
+      "relevance_score": 0.12,
+      "content_preview": "Getting There: Fly into Nice Côte d'Azur Airport, which has good connections to\nmajor European cities. Group bookings often receive discounts.\nLocal Transportation: The regional train system connects ..."
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "travel_guide.pdf",
+      "refined_text": "Group Activities and Entertainment\nBeach Activities: The Mediterranean offers perfect conditions for swimming, beach\nvolleyball, and water sports. Many beaches have equipment rental for groups.\nCultural Experiences: Visit local museums, art galleries, and historic sites. Many\noffer group rates and guided tours in English.\nNightlife: The French Riviera has vibrant nightlife suitable for college students.\nBeach clubs, bars, and local festivals provide entertainment options.\nOutdoor Adventures: Hik",
+      "page_number": 2,
+      "relevance_score": 0.126,
+      "key_concepts": [
+        "Activities and Entertainment",
+        "beaches have equipment",
+        "Experiences: Visit local",
+        "Group Activities and",
+        "Cultural Experiences: Visit",
+        "Many beaches have",
+        "activities"
+      ]
+    },
+    {
+      "document": "travel_guide.pdf",
+      "refined_text": "Getting There: Fly into Nice Côte d'Azur Airport, which has good connections to\nmajor European cities. Group bookings often receive discounts.\nLocal Transportation: The regional train system connects all major coastal cities.\nPurchase group passes for savings.\nBus Services: Local buses are economical and connect smaller towns and beaches not\nserved by trains.\nRental Options: For maximum flexibility, consider renting a van or multiple cars.\nEnsure drivers have international licenses.\nWalking and ",
+      "page_number": 2,
+      "relevance_score": 0.12,
+      "key_concepts": [
+        "Transportation: The regional",
+        "Getting There: Fly",
+        "transport",
+        "bookings often receive",
+        "Group bookings often",
+        "attractions",
+        "There: Fly into",
+        "booking",
+        "Local Transportation: The"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "challenge_id": "round_1b_002",
+    "test_case_name": "travel_planner",
+    "input_documents": [
+      "forms_guide.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+    "processing_timestamp": "2025-07-28 20:44:24",
+    "total_sections_analyzed": 0,
+    "total_documents_processed": 1
+  },
+  "extracted_sections": [],
+  "subsection_analysis": []
+}

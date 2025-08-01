@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "challenge_id": "round_1b_001",
+    "test_case_name": "vegetarian_corporate_catering",
+    "input_documents": [
+      "recipe_guide.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare vegetarian buffet-style dinner menu for corporate gathering",
+    "processing_timestamp": "2025-07-28 20:44:24",
+    "total_sections_analyzed": 2,
+    "total_documents_processed": 1
+  },
+  "extracted_sections": [
+    {
+      "document": "recipe_guide.pdf",
+      "section_title": "Professional Vegetarian Catering Guide",
+      "importance_rank": 1,
+      "page_number": 1,
+      "relevance_score": 0.791,
+      "content_preview": "Introduction to Vegetarian Corporate Catering\nVegetarian catering for corporate events requires careful planning, creative menu\ndesign, and attention to dietary restrictions. This guide provides profe..."
+    },
+    {
+      "document": "recipe_guide.pdf",
+      "section_title": "Buffet Service Planning",
+      "importance_rank": 2,
+      "page_number": 3,
+      "relevance_score": 0.556,
+      "content_preview": "Layout Design: Plan traffic flow to prevent bottlenecks. Position popular items\nstrategically and ensure easy access for all guests.\nTemperature Control: Maintain proper temperatures for hot and cold ..."
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "recipe_guide.pdf",
+      "refined_text": "Introduction to Vegetarian Corporate Catering\nVegetarian catering for corporate events requires careful planning, creative menu\ndesign, and attention to dietary restrictions. Professional caterers must balance nutrition,\npresentation, cost-effectiveness, and scalability. Modern corporate events increasingly demand vegetarian options that are both\ndelicious and visually appealing. Menu Planning for Corporate Events\nAppetizers and Starters: Offer variety with hummus platters, vegetable crudités,\nstuffed mushrooms, and artisanal cheese selections. This guide provides professional\nrecipes and techniques for successful buffet-style service.",
+      "page_number": 1,
+      "relevance_score": 0.791,
+      "key_concepts": [
+        "vegetarian",
+        "presentation",
+        "to Vegetarian Corporate",
+        "This guide provides",
+        "corporate events increasingly",
+        "preparation",
+        "cost-effectiveness",
+        "dietary restrictions",
+        "guide provides professional",
+        "Modern corporate events"
+      ]
+    },
+    {
+      "document": "recipe_guide.pdf",
+      "refined_text": "Service Staff: Train staff on vegetarian ingredients, dietary restrictions, and\nproper serving techniques. Dietary Restrictions and Allergies\nVegan Options: Provide clearly marked vegan dishes using plant-based ingredients\nexclusively. Ingredient Sourcing: Establish relationships with suppliers for bulk vegetarian\ningredients. Seasonal Menu Planning: Design menus around seasonal ingredients to control costs\nand ensure freshness. Client Communication: Clearly communicate value proposition and unique aspects of\nvegetarian catering services.",
+      "page_number": 3,
+      "relevance_score": 0.556,
+      "key_concepts": [
+        "vegetarian",
+        "presentation",
+        "Control: Maintain proper",
+        "preparation",
+        "Temperature Control: Maintain",
+        "ingredients",
+        "dietary restrictions",
+        "dietary",
+        "Design: Plan traffic",
+        "menu"
+      ]
+    }
+  ]
+}
